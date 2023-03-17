@@ -43,3 +43,15 @@ body {
   gap: 24px;
   margin: 24px;
 }
+
+.container{
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  margin: 200px auto;
+}
+
+.input{
+  margin-top: 5px;
+}
+
