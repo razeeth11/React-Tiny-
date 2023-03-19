@@ -16,8 +16,7 @@ function App() {
           path="/mobile"
           element={
             <Protected>
-              {" "}
-              <Phone />{" "}
+              <Phone />
             </Protected>
           }
         />
